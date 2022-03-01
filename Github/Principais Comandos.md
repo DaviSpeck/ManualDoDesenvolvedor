@@ -1,4 +1,4 @@
-# Principais comandos
+# Principais comandos :scroll:
 
 ### Init
 
