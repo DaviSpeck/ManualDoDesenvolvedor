@@ -1,4 +1,4 @@
-# Principais comandos Git
+# Principais comandos
 
 ### Init
 
