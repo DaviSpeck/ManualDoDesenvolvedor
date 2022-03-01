@@ -76,3 +76,5 @@
 > ```
 > $ git pull origin main
 > ```
+
+</left>
