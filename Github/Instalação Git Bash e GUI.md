@@ -11,9 +11,8 @@
 
    
 
-<div align="center">
-	<img align="center" alt="Instalação inicial" src="https://dicasdeprogramacao.com.br/images/como-instalar-o-git-no-windows/site-download-git.png"    
-</div>
+![Instalação inicial](https://dicasdeprogramacao.com.br/images/como-instalar-o-git-no-windows/site-download-git.png)
+
 
 
 
@@ -25,9 +24,8 @@
 
    
 
-<div align="center">
-	<img align="center" alt="Checkboxes" src="https://dicasdeprogramacao.com.br/images/como-instalar-o-git-no-windows/instalador-git-03-componentes.png"    
-</div>
+![Checkboxes](https://dicasdeprogramacao.com.br/images/como-instalar-o-git-no-windows/instalador-git-03-componentes.png)
+
 
 
 
@@ -37,9 +35,8 @@
 
    
 
-<div align="center">
-	<img align="Final instalação" alt="Checkboxes" src="https://dicasdeprogramacao.com.br/images/como-instalar-o-git-no-windows/instalador-git-11-finalizar-instalacao.png"    
-</div>
+![Final instalação](https://dicasdeprogramacao.com.br/images/como-instalar-o-git-no-windows/instalador-git-11-finalizar-instalacao.png)
+
 
 
 **OBS: apesar das imagens estarem desatualizadas, o direcionamento do processo de instalação permanece o mesmo**.
@@ -52,7 +49,7 @@
 
   
 
+![Git-Bash here](https://jcutrer.com/wp-content/uploads/2018/01/git-bash-here-right-click.png.webp)
 
-<div align="center">
-	<img align="Git-Bash here" alt="Checkboxes" src="https://jcutrer.com/wp-content/uploads/2018/01/git-bash-here-right-click.png.webp"    
-</div>
+
+

@@ -9,10 +9,8 @@
 
   
 
+![Git-Bash Here](https://jcutrer.com/wp-content/uploads/2018/01/git-bash-here-right-click.png.webp)
 
-<div align="center">
-	<img align="Git-Bash here" alt="Checkboxes" src="https://jcutrer.com/wp-content/uploads/2018/01/git-bash-here-right-click.png.webp"    
-</div>
 
 
 
