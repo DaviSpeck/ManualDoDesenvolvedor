@@ -4,16 +4,20 @@
 
 
 * Escolha um local em sua máquina para criar uma pasta aonde ficarão seus repositórios associados ao GitHub; 
+
 * Após criar a pasta, clique com o botão direito do mouse e selecione a opção "_**Git Bash Here**_" como na imagem abaixo; 
+
+  
 
 
 <div align="center">
 	<img align="Git-Bash here" alt="Checkboxes" src="https://jcutrer.com/wp-content/uploads/2018/01/git-bash-here-right-click.png.webp"    
 </div>
 
-<div align="left">
+
+
 * Configure globalmente adicionando com os seguintes comandos:
-</div>
+
 
 > ```
 > $ git config --global user.name "Nome"
