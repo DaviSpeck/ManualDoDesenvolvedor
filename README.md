@@ -15,5 +15,5 @@
 1. HTML5
 2. CSS3
 
-#### :warning: Repositório em fase de testes, portanto ainda há alguns detalhes para consertar quanto à formatação e conteúdo :warning:
+#### :warning: Repositório em fase de testes, portanto, ainda há alguns detalhes para consertar quanto à formatação e conteúdo :warning:
 
