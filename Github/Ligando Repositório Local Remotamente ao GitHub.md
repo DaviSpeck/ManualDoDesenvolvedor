@@ -54,7 +54,7 @@
 > $ git status
 > ```
 
-6. Se existir algum retorno, faça os seguintes comandos ("**git add ***"para adicionar tudo que ainda não está no Github e "**git commit**" para o repositório local entender o que deverá ser empurrado para o repositório remoto):
+6. Se existir algum retorno, faça os seguintes comandos ("**git add**" para adicionar tudo que ainda não está no Github e "**git commit**" para o repositório local entender o que deverá ser empurrado para o repositório remoto):
 
 > ```
 > $ git add *
